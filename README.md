@@ -1,4 +1,4 @@
-# Monthly Challenges is a mini-project I built with Python and Django.
+# Monthly Challenges is a mini full-stack project I built with Python, Django and some HTML & CSS.
 Being my first Django project, it is quite simple. 
 It features two pages: 
 ## A read all page with a list of all 12 months. 
